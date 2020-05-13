@@ -1,1 +1,1 @@
-Basic nodejs app based on express to lear k8s deploys.
+Basic nodejs app based on express to learn k8s deploys.

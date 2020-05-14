@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [5.0.1] - 2017-06-23
+### Fixed
+- github action for push tagged image
+
 ## [5.0.0] - 2017-06-23
 ### Fixed
 - Updated the github action to tag docker images when publishing releases.

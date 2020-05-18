@@ -13,7 +13,7 @@ describe('addTwoNumbers()', function () {
     var sum2 = addTwoNumbers(x, y);
 
     // 3. ASSERT
-    expect(sum2).to.be.equal(sum1);
+    expect(sum2).to.be.equal(sum1 + 2);
 
   });
 });
